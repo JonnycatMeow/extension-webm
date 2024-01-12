@@ -1024,3 +1024,9 @@ extern "C" int openfl_webm_register_prims () {
 	return 0;
 	
 }
+
+extern "C" int extension_webm_register_prims () { //for ios because ios needs this
+	
+	return 0;
+	
+}
